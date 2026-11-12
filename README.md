@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="./docs/banner.png" alt="Banner" />
+  <img src="./docs/banner0.png" alt="Banner" />
 
   *Um mundo inteiro esqueceu que ela existiu. Menos você.*
 </div>
