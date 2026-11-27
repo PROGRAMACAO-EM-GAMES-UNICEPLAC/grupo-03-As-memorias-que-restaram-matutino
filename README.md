@@ -5,9 +5,13 @@
   *Um mundo inteiro esqueceu que ela existiu. Menos você.*
 </div>
 
+
+<div align="center">
 <p align="center"> 
+  <i> Link para o jogo </i>
   https://as-memorias-que-restaram.vercel.app/
 </p>
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Gênero-Aventura-2563eb?style=for-the-badge">
